@@ -1,0 +1,39 @@
+body > header{
+margin-top: 68px;
+}
+body > header > h1{
+  text-shadow:-2px -2px pink;
+  background-color:chartreuse;
+  font-family: 'Condiment', cursive;
+  
+}
+h1{
+  text-align:center;
+}
+h2{
+  color: green;
+}
+p{
+ text-align: justify; 
+}
+
+a{
+  border:dotted 2px yellow;
+  margin:5px;
+  
+}
+a:hover{
+  border-color:red;
+}
+section article p{
+padding: 2em 1em;
+margin
+-
+bottom: 2em;
+background
+-
+color: #e9ecef;
+border
+-
+radius: 1em;
+}
